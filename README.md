@@ -21,18 +21,11 @@
 
 | Главный экран | Фильтр по жанрам | Детали фильма |
 |---------------|------------------|---------------|
-| ![app/src/main/res/photo/screenshot1.png][screenshot1] | ![][screenshot2] | ![][screenshot3] |
+| ![Главный экран](app/src/main/res/photo/screenshot1.png) | ![Фильтр по жанрам](app/src/main/res/photo/screenshot2.png) | ![Детали фильма](app/src/main/res/photo/screenshot3.png) |
 
 | Оценка и отзыв | Профиль | Список «Хочу посмотреть» |
 |----------------|---------|--------------------------|
-| ![][screenshot4] | ![][screenshot5] | ![][screenshot6] |
-
-[screenshot1]: path/to/main_screen.png
-[screenshot2]: path/to/genre_filter.png
-[screenshot3]: path/to/movie_detail.png
-[screenshot4]: path/to/review.png
-[screenshot5]: path/to/profile.png
-[screenshot6]: path/to/watch_later.png
+| ![Оценка и отзыв](app/src/main/res/photo/screenshot4.png) | ![Профиль](app/src/main/res/photo/screenshot5.png) | ![Список «Хочу посмотреть»](app/src/main/res/photo/screenshot6.png) |
 
 ---
 
